@@ -4,15 +4,15 @@
 💡 다양한 임베디드 프로젝트를 직접 설계하고 구현하며 경험을 쌓고 있습니다.  
 
 ---
--🎓 I’m currently studying Deep Learning and Embedded Linux and Firmware
--🔧 Tech stack: CAN Protocol, Uart Protocol, IP/TCP Protocol, Linux Kernel ...
--📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)  
--🌱 Fun fact: I love realistic coding more than flashy demos!
+🎓 I’m currently studying Deep Learning and Embedded Linux and Firmware
+🔧 Tech stack: CAN Protocol, Uart Protocol, IP/TCP Protocol, Linux Kernel ...
+📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)  
+🌱 Fun fact: I love realistic coding more than flashy demos!
 
 ## 🧠 주요 프로젝트
 
 - 🚗 **[차량 AI 프로젝트](https://github.com/GaramSong-95/Project-SmartSurround)**:
-- **🏅 Intel Edge AI Academy 최종프로젝트 경진대회 – 최우수상 수상작**
+  **🏅 Intel Edge AI Academy 최종프로젝트 경진대회 – 최우수상 수상작**
   YOLO + BoxMOT 기반으로 과속·졸음운전 차량을 인식하고 CAN 통신으로 알림 전송
 
 - 🛡 **[페스트가드](https://github.com/GaramSong-95/Project-PestGuard)**:  
