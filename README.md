@@ -5,7 +5,7 @@
 
 ---
 🎓 I’m currently studying Deep Learning and Embedded Linux and Firmware  
-🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP, Sever
+🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP, Sever  
 📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)  
 🌱 Fun fact: I love realistic coding more than flashy demos!  
 
