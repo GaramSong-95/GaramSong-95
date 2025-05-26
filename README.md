@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 안녕하세요, 임베디드 개발자 지망생입니다!
 
+🚗 최근에는 차량 주변 운전 행태를 인식하는 AI 시스템을 개발했어요.  
+💡 다양한 임베디드 프로젝트를 직접 설계하고 구현하며 경험을 쌓고 있습니다.  
 
-🎓 I’m currently studying Deep Learning and Embedded Linux  
-🚗 I'm working on vehicle behavior recognition AI systems  
-🔧 Tech stack: Python, PyTorch, Jetson Nano, CAN Protocol  
-📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)  
+---
+🎓 I’m currently studying Deep Learning and Embedded Linux and Firmware
+🔧 Tech stack: CAN Protocol, Uart Protocol, IP/TCP Protocol, Linux Kernel ...
+📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)  
 🌱 Fun fact: I love realistic coding more than flashy demos!
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🧠 주요 프로젝트
+
+- 🚗 **차량 AI 프로젝트**:  
+  YOLO + BoxMOT 기반으로 과속·졸음운전 차량을 인식하고 CAN 통신으로 알림 전송
+
+- 🛡 **페스트가드**:  
+  터틀봇을 활용한 무인 벌레 퇴치 시스템
+
+- 💸 **터치터치 ATM**:  
+  라즈베리파이4 기반의 터치 인터페이스 ATM
+
+- 📦 **무인 택배 보관함 시스템**:  
+  센서와 아두이노로 택배 수령/알림이 가능한 무인보관함
+
+- 🏭 **스마트 팩토리**:  
+  MobileNetV3로 O/X 판별 및 컬러 감지, 공정 이상 자동화 감지 시스템
+
+---
+
+## 🛠 기술 스택
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux Embedded](https://img.shields.io/badge/Linux_Embedded-000000?style=flat&logo=linux&logoColor=white)
+![Firmware](https://img.shields.io/badge/Firmware-555555?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![BSP](https://img.shields.io/badge/BSP-007ACC?style=flat)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-7348B6?style=flat)
+
+---
 
 ## 📊 GitHub Stats
-![Junwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwoo-dev&show_icons=true&theme=tokyonight)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaramSong-95&show_icons=true&theme=tokyonight)
