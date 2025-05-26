@@ -5,8 +5,11 @@
 
 ---
 🎓 I’m currently studying Deep Learning and Embedded Linux and Firmware
+
 🔧 Tech stack: CAN Protocol, Uart Protocol, IP/TCP Protocol, Linux Kernel ...
+
 📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)  
+
 🌱 Fun fact: I love realistic coding more than flashy demos!
 
 ## 🧠 주요 프로젝트
@@ -26,13 +29,13 @@
 - 🏭 **[스마트 팩토리](https://github.com/GaramSong-95/Project-SmartFactory)**:  
   MobileNetV3로 O/X 판별 및 컬러 감지, 공정 이상 자동화 감지 시스템
 
-- 🧭 **[YOLO Detect](https://github.com/your-id/yolo-detect)**:  
+- 🧭 **[YOLO Detect](https://github.com/GaramSong-95/Project-yolodetect)**:  
   YOLO 기반 영상 객체 탐지 및 경고 시스템 구현
 
 - 🐸 **[황소개구리 게임](https://github.com/GaramSong-95/Project-AmericanBullfrog)**:  
   Cortex-M3 기반의 STM32F 보드와 C++ 기반 도트 감성 황소개구리 생존 게임
 
-- 💨 **[스마트 핸디팬](https://github.com/your-id/smart-handyfan)**:  
+- 💨 **[스마트 핸디팬](https://github.com/GaramSong-95/Project-SmartHandyFan)**:  
   온습도 센서와 모터 제어를 활용한 자동 스마트 핸디팬 제작
 
 
