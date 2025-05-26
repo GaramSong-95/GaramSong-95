@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**GaramSong-95/GaramSong-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 I’m currently studying Deep Learning and Embedded Linux  
 🚗 I'm working on vehicle behavior recognition AI systems  
