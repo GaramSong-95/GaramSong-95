@@ -5,8 +5,11 @@
 
 ---
 🎓 I’m currently studying Deep Learning and Embedded Linux and Firmware
+
 🔧 Tech stack: CAN Protocol, Uart Protocol, IP/TCP Protocol, Linux Kernel ...
+
 📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)  
+
 🌱 Fun fact: I love realistic coding more than flashy demos!
 
 ## 🧠 주요 프로젝트
