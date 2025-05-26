@@ -11,20 +11,30 @@
 
 ## 🧠 주요 프로젝트
 
-- 🚗 **차량 AI 프로젝트**:  
+- 🚗 **[차량 AI 프로젝트](https://github.com/GaramSong-95/Project-SmartSurround)**:  
   YOLO + BoxMOT 기반으로 과속·졸음운전 차량을 인식하고 CAN 통신으로 알림 전송
 
-- 🛡 **페스트가드**:  
+- 🛡 **[페스트가드](https://github.com/GaramSong-95/Project-PestGuard)**:  
   터틀봇을 활용한 무인 벌레 퇴치 시스템
 
-- 💸 **터치터치 ATM**:  
+- 💸 **[터치터치 ATM](https://github.com/GaramSong-95/Project-ATM)**:  
   라즈베리파이4 기반의 터치 인터페이스 ATM
 
-- 📦 **무인 택배 보관함 시스템**:  
+- 📦 **[무인 택배 보관함 시스템](https://github.com/GaramSong-95/Project-SmartDeliveryStorageBoxSystem)**:  
   센서와 아두이노로 택배 수령/알림이 가능한 무인보관함
 
-- 🏭 **스마트 팩토리**:  
+- 🏭 **[스마트 팩토리](https://github.com/GaramSong-95/Project-SmartFactory)**:  
   MobileNetV3로 O/X 판별 및 컬러 감지, 공정 이상 자동화 감지 시스템
+
+- 🧭 **[YOLO Detect](https://github.com/your-id/yolo-detect)**:  
+  YOLO 기반 영상 객체 탐지 및 경고 시스템 구현
+
+- 🐸 **[황소개구리 게임](https://github.com/GaramSong-95/Project-AmericanBullfrog)**:  
+  Cortex-M3 기반의 STM32F 보드와 C++ 기반 도트 감성 황소개구리 생존 게임
+
+- 💨 **[스마트 핸디팬](https://github.com/your-id/smart-handyfan)**:  
+  온습도 센서와 모터 제어를 활용한 자동 스마트 핸디팬 제작
+
 
 ---
 
@@ -53,3 +63,5 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaramSong-95&show_icons=true&theme=tokyonight)
+
+📫 궁금한 점이 있다면 언제든지 연락 주세요!
