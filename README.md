@@ -14,7 +14,8 @@
 
 ## 🧠 주요 프로젝트
 
-- 🚗 **[차량 AI 프로젝트](https://github.com/GaramSong-95/Project-SmartSurround)**:  
+- 🚗 **[차량 AI 프로젝트](https://github.com/GaramSong-95/Project-SmartSurround)**:
+  **🏅 Intel Edge AI Academy 최종프로젝트 경진대회 – 최우수상 수상작**
   YOLO + BoxMOT 기반으로 과속·졸음운전 차량을 인식하고 CAN 통신으로 알림 전송
 
 - 🛡 **[페스트가드](https://github.com/GaramSong-95/Project-PestGuard)**:  
