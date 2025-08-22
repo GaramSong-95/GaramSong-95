@@ -6,7 +6,7 @@
 💡 다양한 임베디드 프로젝트를 직접 설계하고 구현하며 경험을 쌓고 있습니다.  
 
 ---
-🎓 현재 넥스트칩 ISP SW 개발 연구원으로 재직 중.
+🎓 현재 넥스트칩 ISP SW 개발 연구원으로 재직 중.  
 🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP  
 📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)   
 
