@@ -1,14 +1,12 @@
-# 👋 안녕하세요, 임베디드 개발자 지망생입니다!
+# 👋 안녕하세요, 임베디드 개발자입니다!
 
 **🏅 Intel Edge AI Academy 최우수 수료**  
   
 🚗 최근에는 차량 주변 운전 행태를 인식하는 AI 시스템을 개발했어요.  
 💡 다양한 임베디드 프로젝트를 직접 설계하고 구현하며 경험을 쌓고 있습니다.  
-  
-임베디드 소프트웨어 개발자로 구직 중입니다.
 
 ---
-🎓 I’m currently studying Embedded Linux and Firmware  
+🎓 현재 넥스트칩 ISP SW 개발 연구원으로 재직 중.
 🔧 Tech stack: Embedded Linux, Firmware, Protocol, Image processing, BSP  
 📫 How to reach me: [garamsong95@gmail.com](mailto:garamsong95@gmail.com)   
 
